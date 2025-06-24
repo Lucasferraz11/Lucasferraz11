@@ -1,16 +1,18 @@
-## Hi there 👋
+Console.WriteLine("Lucas Ferraz 📊🧪");
 
-<!--
-**Lucasferraz11/Lucasferraz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Atualmente atuando como QA Trainee, focado em evoluir para a área de Dados e Testes Automatizados
 
-Here are some ideas to get you started:
+💡 Apaixonado por tecnologia, aprendizado contínuo e projetos que unem dados, automação e análise de resultados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias que utilizo e estou estudando:
+Python • SQL (MySQL e SQL Server) • Power BI • Streamlit • Robot Framework • Git & GitHub
+
+📚 Projetos em andamento:
+• Sistema de vendas com Python + MySQL
+• Dashboard financeiro com Streamlit
+• Integrações ERP (Bling) com automação de pedidos
+
+🌐 Redes Sociais:
+[LinkedIn](https://www.linkedin.com/in/lucas-ferraz-da-costa-278586289/) • [GitHub](https://github.com/Lucasferraz11)
+
+📫 Contato: lucasferraz11@gmail.com
