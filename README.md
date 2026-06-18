@@ -1,6 +1,6 @@
 Console.WriteLine("Lucas Ferraz 📊🧪");
 
-💼 Atualmente atuando como QA Trainee, focado em evoluir para a área de Dados e Testes Automatizados
+💼 Atualmente atuando como Analista de Teste, focado em evoluir para a área de Dados e Testes Automatizados
 
 💡 Apaixonado por tecnologia, aprendizado contínuo e projetos que unem dados, automação e análise de resultados
 
