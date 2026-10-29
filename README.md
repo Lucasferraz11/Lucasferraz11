@@ -1,6 +1,4 @@
-```csharp
 Console.WriteLine("Lucas Ferraz 🚀");
-```
 
 ## 👋 Sobre mim
 
